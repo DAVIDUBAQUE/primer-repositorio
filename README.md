@@ -24,11 +24,15 @@ git clone https://github.com/DAVIDUBAQUE/primer-repositorio.git
 
 
 --- CREACION DE RAMAS
-git checkout
+git checkout main
 git checkout -d rama2
 touch index.js
 git status
 
 git checkput 
+git log
+git tag 
+git pull origin main
+git status
 git log
 git tag 
